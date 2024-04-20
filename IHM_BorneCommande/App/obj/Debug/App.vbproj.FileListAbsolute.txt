@@ -1,0 +1,12 @@
+C:\Users\kachy\Documents\BUT 1\App\bin\Debug\App.exe.config
+C:\Users\kachy\Documents\BUT 1\App\bin\Debug\App.exe
+C:\Users\kachy\Documents\BUT 1\App\bin\Debug\App.pdb
+C:\Users\kachy\Documents\BUT 1\App\bin\Debug\App.xml
+C:\Users\kachy\Documents\BUT 1\App\obj\Debug\App.vbproj.AssemblyReference.cache
+C:\Users\kachy\Documents\BUT 1\App\obj\Debug\App.Form1.resources
+C:\Users\kachy\Documents\BUT 1\App\obj\Debug\App.Resources.resources
+C:\Users\kachy\Documents\BUT 1\App\obj\Debug\App.vbproj.GenerateResource.cache
+C:\Users\kachy\Documents\BUT 1\App\obj\Debug\App.vbproj.CoreCompileInputs.cache
+C:\Users\kachy\Documents\BUT 1\App\obj\Debug\App.exe
+C:\Users\kachy\Documents\BUT 1\App\obj\Debug\App.xml
+C:\Users\kachy\Documents\BUT 1\App\obj\Debug\App.pdb
